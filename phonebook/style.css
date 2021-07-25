@@ -1,0 +1,38 @@
+*{
+    background-color:#FADBD8 ;
+}
+h1{
+    text-align:center;
+    color:#78281F ;
+    font-size:50px;
+    text-shadow:-6px 6px 2px #A6ACAF;
+    font-family: 'Otomanopee One', sans-serif;
+    
+}
+div{
+    background-color:#EC7063;
+    margin:20px;
+   font-size:30px;
+   color: #283747 ;
+   width:100%;
+   font-family: 'Anton', sans-serif;
+   border-radius:10px ;
+}
+div{
+    position:sticky;
+    top:30px;
+}
+ul li{
+    font-size:20px;
+    /* position:sticky;
+    top:10px; */
+    padding:5px;
+    list-style-type:none;
+    
+}
+li::before{
+    content:"\260E";
+}
+div::before{
+    content:"\1F465";
+}
