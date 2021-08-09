@@ -1,0 +1,38 @@
+
+#first{
+    padding:4vh;
+    display: grid;
+    grid-row-gap: 10vh;
+    margin-top:2vh;
+}
+
+
+div:nth-of-type(2) button
+{
+  background: transparent;
+  color:#52BE80 ;
+  border:2px solid #52BE80  ;
+  font-size: 2vh;
+}
+div:nth-of-type(2) 
+{
+    padding: 4vh;
+}
+div:nth-of-type(3) 
+{
+    padding: 4vh;
+}
+div:nth-of-type(4) 
+{
+    padding: 4vh;
+}
+div:nth-of-type(5) 
+{
+    padding: 6vh;
+}
+
+
+
+
+
+
